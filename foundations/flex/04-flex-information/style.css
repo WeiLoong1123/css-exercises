@@ -12,26 +12,33 @@ img {
   font-weight: 900;
   display: flex;
   justify-content: center;
+  padding-bottom: 32px;
 }
 
 .plant {
 
-  padding: 32px;
+  
   display: flex;
-  justify-content: space-evenly;
+  justify-content: center;
+  padding: 52px;
+  padding-top: 0px;
+  
+  
 }
 
 .plantinfoflex {
 
+  width: 200px;
   display: flex;
   flex-direction: column;
   align-items: center;
-  max-width: 200px;
+ 
 }
+
 
 .text {
 
-  text-align: center;
+  text-wrap: wrap;
   
 }
 
