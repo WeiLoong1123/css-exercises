@@ -1,1 +1,23 @@
 /* Add CSS Styling */
+p {
+    background-color: rgb(255, 182, 193);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#second-element {
+    color: blue;
+    font-size: 36px;
+}
+
+.Uniquethree {
+    font-size: 24px;
+}
+
+#fourthelement {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+/*GOT THE DESIRED OUTCOME BUT HOWEVER DID NOT REDUCE DUPLICATED CODE*/
+
